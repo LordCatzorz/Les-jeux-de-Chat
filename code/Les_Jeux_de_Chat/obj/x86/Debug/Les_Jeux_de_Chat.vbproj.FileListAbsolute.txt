@@ -1,0 +1,35 @@
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\bin\Debug\Les_Jeux_de_Chat.exe
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\bin\Debug\Les_Jeux_de_Chat.pdb
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\bin\Debug\Les_Jeux_de_Chat.xml
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmPause.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmPartiePerduNouveauMeilleurScore.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmInstructions.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmConsumo.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmIntroduction.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmOuverture.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmMeilleursScores.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmVousAvezPerdu.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.Resources.resources
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\Les_Jeux_de_Chat.exe
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\Les_Jeux_de_Chat.xml
+C:\Users\Nouveau Compte\Desktop\GR03_sylvainR_et_OuelletJ_TP2\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\Les_Jeux_de_Chat.pdb
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\Les_Jeux_de_Chat.exe
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\Les_Jeux_de_Chat.xml
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\Les_Jeux_de_Chat.pdb
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\bin\Debug\Les_Jeux_de_Chat.exe.config
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\bin\Debug\Les_Jeux_de_Chat.exe
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\bin\Debug\Les_Jeux_de_Chat.pdb
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\bin\Debug\Les_Jeux_de_Chat.xml
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmPause.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmPartiePerduNouveauMeilleurScore.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmInstructions.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmConsumo.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmIntroduction.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmOuverture.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmMeilleursScores.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.frmVousAvezPerdu.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\JeuxDeChat.Resources.resources
+C:\Users\Nouveau Compte\Desktop\CEGEP\Session Automne 2012\Programmation\Exercice\Projets en cours\TP3\GR03_sylvainR_et_OuelletJ_TP2w\GR03_sylvainR_et_OuelletJ_TP2\code\Les_Jeux_de_Chat\obj\x86\Debug\Les_Jeux_de_Chat.vbproj.GenerateResource.Cache
